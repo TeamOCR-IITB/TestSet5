@@ -1,0 +1,18 @@
+{
+    "AverageCharAccuracy": 99.73999786376953,
+    "AverageCharErrors": 1,
+    "AverageWordAccuracy": 98.52999877929688,
+    "AverageWordErrors": 1,
+    "Formatting": true,
+    "Rating-V1": 5,
+    "pages": {
+        "page-001": {
+            "characcuracy": 99.73999786376953,
+            "charerrors": 1,
+            "comments": "",
+            "pagename": "page-001",
+            "wordaccuracy": 98.52999877929688,
+            "worderrors": 1
+        }
+    }
+}
